@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Monologue Studio",
+  "description": "A high-end podcast generation tool that creates high-fidelity monologue podcasts from transcripts using voice sample analysis and Gemini's native speech synthesis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
